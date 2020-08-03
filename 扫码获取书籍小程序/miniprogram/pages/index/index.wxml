@@ -1,0 +1,7 @@
+<view class="container">
+	<view wx:for="{{books}}" wx:key="item">
+<image class="book-cover" src="{{item.rate}}"></image>
+		<view>{{item.title}}</view>
+    <view>{{item.author}}</view>
+	</view>
+</view>

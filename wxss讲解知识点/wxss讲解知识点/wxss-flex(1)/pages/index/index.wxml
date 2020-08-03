@@ -1,0 +1,5 @@
+<view class='container'>
+  <view class='a'>项目A</view>
+  <view class='b'>项目B</view>
+  <view class='c'>项目C</view>
+</view>

@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#663399",
+    
+    "navigationBarTitleText": "收藏点赞关注投币",
+    
+    "backgroundTextStyle": "light"
+    
+  },
+  "sitemapLocation": "sitemap.json"
+}
